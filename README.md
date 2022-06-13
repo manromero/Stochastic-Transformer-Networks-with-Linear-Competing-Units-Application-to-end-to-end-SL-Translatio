@@ -92,6 +92,8 @@ To train a model:
 **Windows users may need to run the command in administrator mode [OSError: symbolic link privilege not held]**
 
   `python -m signjoey train configs/example.yaml`
+
+Runtime: 7 hours 52 mins (Approximate, using NVIDIA GeForce RTX 3070).
   
 To test  an excisting model:
   
