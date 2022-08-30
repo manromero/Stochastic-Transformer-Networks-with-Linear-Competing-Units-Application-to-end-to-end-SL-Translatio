@@ -23,6 +23,10 @@ Please cite :
   year={2021}
 }
 
+## Best model found
+
+It is possible to download the best pre-trained model found after performing the hyperparameter scan from [this link](https://uses0-my.sharepoint.com/:u:/g/personal/mignunolm_alum_us_es/EVLPxAKQedBHk_FqatNqDqIB-VAqsYqV_1sgCrpbWH49zQ?e=1xs4ul).
+
 ## SetUp
 
 May differs from the original in [Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end Sign Language Translation](https://github.com/avoskou/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translatio):
