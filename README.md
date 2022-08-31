@@ -25,7 +25,7 @@ Please cite :
 
 ## Best model found
 
-It is possible to download the best pre-trained model found after performing a hyperparameter scan from [this link](https://uses0-my.sharepoint.com/:u:/g/personal/mignunolm_alum_us_es/EVLPxAKQedBHk_FqatNqDqIB-VAqsYqV_1sgCrpbWH49zQ?e=1xs4ul).
+It is possible to download the best pre-trained model found after performing a hyperparameter scan from [this link](https://uses0-my.sharepoint.com/:u:/g/personal/mignunolm_alum_us_es/EWoxELj-SqVHjK0riOsbY2EBQgSMWKihvMX9j4nsZtfd9g?e=5QoaDt).
 
 ## SetUp
 
